@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nicoresni
-- 👀 I’m interested in Memes
+- 👀 I’m interested on Memes
 - 🌱 I’m currently learning Informatics Engineering
 
 <!---
